@@ -1,0 +1,34 @@
+header
+{
+margin:  10px;
+}
+body{
+  color: red;
+}
+td
+{
+  width:  300px;
+}
+table
+{
+margin: 15px;
+border-bottom: 1px solid;
+width: 100%;
+}
+div h1
+{
+  margin: auto;
+    width: 60%;
+    padding: 50px;
+color: black;
+}
+div h3
+{
+   color: black;
+}
+
+
+a:link    {color:green; background-color:transparent; text-decoration:none}
+a:visited {color:black; background-color:transparent; text-decoration:none}
+a:hover   {color:red; background-color:transparent; text-decoration:underline}
+a:active  {color:yellow; background-color:transparent; text-decoration:underline}
